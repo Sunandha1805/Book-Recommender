@@ -8,8 +8,7 @@ The web app is deployed live on **Render**.
 
 ## 🚀 Live Demo
 
-🔗 **[Try the App on Render](https://your-app-link.onrender.com)**
-*(Replace with your actual deployed Render URL)*
+🔗 **[[Try the App on Render](https://your-app-link.onrender.com)](https://book-recommender-b91a.onrender.com/)**
 
 ---
 
